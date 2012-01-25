@@ -1,3 +1,4 @@
-==One Thing Now
+One Thing Now
+==============
 Simple CLI Task Mangement
 
