@@ -1,6 +1,8 @@
 One Thing Now: Simple CLI Task Mangement
 ==============
+
 Instructions:
+
 
 1.Clone the contents of onethingnow/.bashrc
 
