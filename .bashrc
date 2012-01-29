@@ -9,3 +9,7 @@ tt() {
         echo "$*" > ~/.tt
     fi
 }
+
+ttls() {
+    cat ~/.tt
+}
