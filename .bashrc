@@ -7,7 +7,7 @@ tt() {
         cat ~/.tt
     else
         echo "$*" > ~/.tt
-        echo "$*" > ~/.ttlog
+#       echo "$*" > ~/.ttlog
     fi
 }
 
@@ -15,6 +15,6 @@ ttls() {
     cat ~/.tt
 }
 
-ttlog() {
-    cat ~/.ttlog
-}
+#  ttlog() {
+#     cat ~/.ttlog
+#  }
